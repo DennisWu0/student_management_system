@@ -1,0 +1,5 @@
+manually download the images(mysql and python)
+
+cannt automatically create student table 
+
+the port: probably the 5000 is used so need to consider another port
